@@ -1,4 +1,29 @@
-/* css */
+html {
+    border: 3px solid blue;
+    text-align: center;
+    list-style-type: none;
+
+}
+main {
+    border: 10px solid grey;
+    border-top: 5px solid;
+    border-bottom: 0;
+}
+
+footer {
+    border-left: 10px solid grey;
+    border-right: 10px solid grey;
+    border-bottom: 10px solid grey;
+}
+
+
+
+
+
+
+
+
+/* 
 h4 {
     color:aqua;
     text-align: 
@@ -7,6 +32,8 @@ h4 {
 }
 p {
     font-family: Georgia;
+}
+nav {
 }
 .header {
     background-color: lightblue;
@@ -35,7 +62,7 @@ h3{
     bottom:single-button
 }
 
-/* Styling my Icon buttons */
+/* Styling my Icon buttons 
 .btn {
   background-color: DodgerBlue; 
   border: none; 
@@ -45,7 +72,7 @@ h3{
   cursor: pointer;
 }
 
-/* Darker background */
+/* Darker background 
 .btn:hover {
   background-color: RoyalBlue;
 }
@@ -67,11 +94,11 @@ html,body {
     margin: 0;
 }
 
-/* styling my Icons*/
+/* styling my Icons
 .icon {
     width: 50px;
     height: 50px;
     margin: 10px;
     display: inline-block;
     background-size: cover;
-}
+}*/
